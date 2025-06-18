@@ -21,7 +21,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>12</string>
+	<string>13</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>scotiabank</string>
@@ -58,7 +58,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>This app uses the camera to take a user avatar and photo to store in app private internal data set.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>This app collects coarse location data to improve analytics and enhance user experience.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>To record audio files during video recording</string>
 	<key>NSPhotoLibraryUsageDescription</key>
