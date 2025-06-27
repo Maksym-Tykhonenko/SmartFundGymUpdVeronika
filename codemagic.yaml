@@ -51,3 +51,6 @@ workflows:
         auth: integration
         submit_to_app_store: true
         copyright: Smart Fundelur Gym 2025
+      email:
+        recipients:
+          - ruthgetrick24220@gmail.com
